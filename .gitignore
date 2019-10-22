@@ -1,0 +1,5 @@
+# ignore mac file
+.DS_Store
+# ignore intermediate file
+feature
+Submit
